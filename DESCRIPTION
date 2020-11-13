@@ -1,0 +1,10 @@
+Package: characters
+Type: Package
+Title: Characters
+Version: 0.1.0
+Author: Ashton Hansen
+Maintainer: Ashton Hansen <ahansen6@luc.edu>
+Description: Randomly samples a letter from the English alphabet.
+License: Unlicensed
+Encoding: UTF-8
+LazyData: true
